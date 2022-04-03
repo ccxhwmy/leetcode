@@ -1,5 +1,7 @@
 package dynamic
 
+//https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
 func maxProfit1(prices []int) int {
 	if len(prices) == 0 {
 		return 0
