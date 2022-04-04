@@ -2,6 +2,8 @@ package list
 
 import "container/heap"
 
+//https://leetcode.com/problems/merge-k-sorted-lists
+
 func mergeKLists(lists []*ListNode) *ListNode {
 	if len(lists) == 0 {
 		return nil
