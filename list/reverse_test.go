@@ -22,19 +22,6 @@ var testHead = &ListNode{
 	},
 }
 
-func getList(head *ListNode) []int {
-	res := make([]int, 0)
-	if head == nil {
-		return res
-	}
-	cur := head
-	for cur != nil {
-		res = append(res, cur.Val)
-		cur = cur.Next
-	}
-	return res
-}
-
 func TestReverseList(t *testing.T) {
 	t.Log(getList(reverseList(testHead)))
 }
