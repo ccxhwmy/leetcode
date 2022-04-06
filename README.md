@@ -9,7 +9,7 @@ practise leetcode
 | 124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Go       | Hard       |
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance) | Go       | Hard       |
 | 4    |                                                              |          | Hard       |
-| 76   |                                                              |          | Hard       |
+| 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Go       | Hard       |
 | 239  |                                                              |          | Hard       |
 | 41   |                                                              |          | Hard       |
 | 32   |                                                              |          | Hard       |
