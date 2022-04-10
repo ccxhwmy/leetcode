@@ -1,5 +1,5 @@
 # leetcode
-practise leetcode
+## 高频
 
 | #    | Title                                                        | Solution | Difficulty |
 | ---- | ------------------------------------------------------------ | -------- | ---------- |
@@ -87,4 +87,14 @@ practise leetcode
 |      |                                                              |          |            |
 |      |                                                              |          |            |
 |      |                                                              |          |            |
+
+
+
+## 自测
+
+| #    | Title                                                    | Solution | Difficulty |
+| ---- | -------------------------------------------------------- | -------- | ---------- |
+| 113  | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | Go       | Medium     |
+|      |                                                          |          |            |
+|      |                                                          |          |            |
 

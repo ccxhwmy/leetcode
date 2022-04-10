@@ -98,3 +98,7 @@ func TestMaxPathSum(t *testing.T) {
 		t.Fatal("failed")
 	}
 }
+
+func TestPathSum(t *testing.T) {
+
+}
