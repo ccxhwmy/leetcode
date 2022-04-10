@@ -12,7 +12,7 @@
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Go       | Hard       |
 | 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Go       | Hard       |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | Go       | Hard       |
-| 32   |                                                              |          | Hard       |
+| 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | Go       | Hard       |
 | 297  |                                                              |          | Hard       |
 | 460  |                                                              |          | Hard       |
 | 224  |                                                              |          | Hard       |
