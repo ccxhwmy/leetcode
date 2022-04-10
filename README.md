@@ -11,7 +11,7 @@
 | 4    |                                                              |          | Hard       |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Go       | Hard       |
 | 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Go       | Hard       |
-| 41   |                                                              |          | Hard       |
+| 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | Go       | Hard       |
 | 32   |                                                              |          | Hard       |
 | 297  |                                                              |          | Hard       |
 | 460  |                                                              |          | Hard       |
@@ -94,6 +94,7 @@
 
 | #    | Title                                                    | Solution | Difficulty |
 | ---- | -------------------------------------------------------- | -------- | ---------- |
+| 112  | [Path Sum](https://leetcode.com/problems/path-sum)       | Go       | Easy       |
 | 113  | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | Go       | Medium     |
 |      |                                                          |          |            |
 |      |                                                          |          |            |

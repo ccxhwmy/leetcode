@@ -1,5 +1,7 @@
 package binary_tree
 
+//https://leetcode.com/problems/path-sum-ii
+
 func pathSum(root *TreeNode, target int) [][]int {
 	if root == nil {
 		return nil
@@ -28,6 +30,8 @@ func pathSum(root *TreeNode, target int) [][]int {
 	dfs(root, target)
 	return res
 }
+
+//https://leetcode.com/problems/path-sum
 
 func hasPathSum(root *TreeNode, targetSum int) bool {
 	if root == nil {
