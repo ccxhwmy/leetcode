@@ -102,3 +102,9 @@ func TestMaxPathSum(t *testing.T) {
 func TestPathSum(t *testing.T) {
 
 }
+
+func TestSerializeAndDeserialize(t *testing.T) {
+	s := serializeWithBfs(testRoot)
+	root := deserializeWithBfs(s)
+	t.Log("root: ", root)
+}

@@ -23,3 +23,15 @@ func TestMinSlideWindow1(t *testing.T) {
 		t.Fatal("failed")
 	}
 }
+
+func TestLongestSubstrWithoutRepeatChar(t *testing.T) {
+	if longestSubStrWithoutRepeatChar("abcabcbb") != 3 {
+		t.Fatal("failed")
+	}
+	if longestSubStrWithoutRepeatChar("bbbbb") != 1 {
+		t.Fatal("failed")
+	}
+	if longestSubStrWithoutRepeatChar("pwwkew") != 3 {
+		t.Fatal("failed")
+	}
+}
