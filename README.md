@@ -20,7 +20,7 @@
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Go       | Medium     |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache)         | Go       | Medium     |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Go       | Medium     |
-| 15   |                                                              |          | Medium     |
+| 15   | [3Sum](https://leetcode.com/problems/3sum)                   | Go       | Medium     |
 | 102  |                                                              |          | Medium     |
 | 103  |                                                              |          | Medium     |
 | 236  |                                                              |          | Medium     |
