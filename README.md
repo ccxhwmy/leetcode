@@ -24,8 +24,8 @@
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Go       | Medium     |
 | 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Go       | Medium     |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Go       | Medium     |
-| 33   |                                                              |          | Medium     |
-| 5    |                                                              |          | Medium     |
+| 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Go       | Medium     |
+| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Go       | Medium     |
 | 200  |                                                              |          | Medium     |
 | 46   |                                                              |          | Medium     |
 | 92   |                                                              |          | Medium     |
