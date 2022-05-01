@@ -26,7 +26,7 @@
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Go       | Medium     |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Go       | Medium     |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Go       | Medium     |
-| 200  |                                                              |          | Medium     |
+| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Go       | Medium     |
 | 46   |                                                              |          | Medium     |
 | 92   |                                                              |          | Medium     |
 | 142  |                                                              |          | Medium     |

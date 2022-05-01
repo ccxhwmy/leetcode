@@ -18,3 +18,15 @@ func TestLongestParlindrome(t *testing.T) {
 		t.Fatal("failed")
 	}
 }
+
+func TestNumIslands(t *testing.T) {
+	grid1 := [][]byte{
+		{'1','1','1','1','0'},
+		{'1','1','0','1','0'},
+		{'1','1','0','0','0'},
+		{'0','0','0','0','0'},
+	}
+	if numIslands(grid1) != 1 {
+		t.Fatal("failed")
+	}
+}
