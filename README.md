@@ -27,7 +27,7 @@
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Go       | Medium     |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Go       | Medium     |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Go       | Medium     |
-| 46   |                                                              |          | Medium     |
+| 46   | [Permutations](https://leetcode.com/problems/permutations)   | Go       | Medium     |
 | 92   |                                                              |          | Medium     |
 | 142  |                                                              |          | Medium     |
 | 54   |                                                              |          | Medium     |
