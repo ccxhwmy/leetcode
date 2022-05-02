@@ -28,7 +28,7 @@
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Go       | Medium     |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Go       | Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations)   | Go       | Medium     |
-| 92   |                                                              |          | Medium     |
+| 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | Go       | Medium     |
 | 142  |                                                              |          | Medium     |
 | 54   |                                                              |          | Medium     |
 | 300  |                                                              |          | Medium     |
