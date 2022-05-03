@@ -29,8 +29,8 @@
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Go       | Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations)   | Go       | Medium     |
 | 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | Go       | Medium     |
-| 142  |                                                              |          | Medium     |
-| 54   |                                                              |          | Medium     |
+| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Go       | Medium     |
+| 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Go       | Medium     |
 | 300  |                                                              |          | Medium     |
 | 143  |                                                              |          | Medium     |
 | 199  |                                                              |          | Medium     |
@@ -84,7 +84,7 @@
 | 40   |                                                              |          | Medium     |
 | 11   |                                                              |          | Medium     |
 | 114  |                                                              |          | Medium     |
-|      |                                                              |          |            |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Go       | Easy       |
 |      |                                                              |          |            |
 |      |                                                              |          |            |
 
