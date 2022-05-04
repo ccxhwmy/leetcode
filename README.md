@@ -31,7 +31,7 @@
 | 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | Go       | Medium     |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Go       | Medium     |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Go       | Medium     |
-| 300  |                                                              |          | Medium     |
+| 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Go       | Medium     |
 | 143  |                                                              |          | Medium     |
 | 199  |                                                              |          | Medium     |
 | 56   |                                                              |          | Medium     |
