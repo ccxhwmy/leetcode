@@ -41,3 +41,8 @@ func TestReverseKGroup(t *testing.T) {
 func TestReverseBetween(t *testing.T) {
 	t.Log(getList(reverseBetween2(testHead, 2, 4)))
 }
+
+func TestReorderList(t *testing.T) {
+	reorderList(testHead)
+	t.Log(getList(testHead))
+}
