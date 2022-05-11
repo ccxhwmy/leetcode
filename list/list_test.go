@@ -46,3 +46,7 @@ func TestReorderList(t *testing.T) {
 	reorderList(testHead)
 	t.Log(getList(testHead))
 }
+
+func TestRemoveNthEnd(t *testing.T) {
+	t.Log(getList(removeNthFromEnd(testHead, 2)))
+}
