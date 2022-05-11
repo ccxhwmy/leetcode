@@ -2,6 +2,8 @@ package sort
 
 import "sort"
 
+//https://leetcode.com/problems/merge-intervals
+
 func merge(intervals [][]int) [][]int {
 	if len(intervals) == 0 {
 		return intervals

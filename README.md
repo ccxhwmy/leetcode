@@ -34,7 +34,7 @@
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Go       | Medium     |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list)   | Go       | Medium     |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Go       | Medium     |
-| 56   |                                                              |          | Medium     |
+| 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Go       | Medium     |
 | 19   |                                                              |          | Medium     |
 | 82   |                                                              |          | Medium     |
 | 8    |                                                              |          | Medium     |
