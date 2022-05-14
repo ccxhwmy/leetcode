@@ -22,6 +22,29 @@ var testHead = &ListNode{
 	},
 }
 
+var duplicateHead = &ListNode{
+	Val:  1,
+	Next: &ListNode{
+		Val:  2,
+		Next: &ListNode{
+			Val:  2,
+			Next: &ListNode{
+				Val:  2,
+				Next: &ListNode{
+					Val:  3,
+					Next: &ListNode{
+						Val:  3,
+						Next: &ListNode{
+							Val:  4,
+							Next: nil,
+						},
+					},
+				},
+			},
+		},
+	},
+}
+
 func TestReverseList(t *testing.T) {
 	t.Log(getList(reverseList(testHead)))
 }
@@ -49,4 +72,8 @@ func TestReorderList(t *testing.T) {
 
 func TestRemoveNthEnd(t *testing.T) {
 	t.Log(getList(removeNthFromEnd(testHead, 2)))
+}
+
+func TestDeleteDuplicates(t *testing.T) {
+	t.Log(getList(deleteDuplicates(duplicateHead)))
 }
