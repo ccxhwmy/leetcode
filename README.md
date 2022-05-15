@@ -38,7 +38,7 @@
 | 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Go       | Medium     |
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Go       | Medium     |
 | 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Go       | Medium     |
-| 148  |                                                              |          | Medium     |
+| 148  | [Sort List](https://leetcode.com/problems/sort-list)         | Go       | Medium     |
 | 2    |                                                              |          | Medium     |
 | 151  |                                                              |          | Medium     |
 | 93   |                                                              |          | Medium     |
