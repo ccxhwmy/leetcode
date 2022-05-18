@@ -39,7 +39,7 @@
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Go       | Medium     |
 | 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Go       | Medium     |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list)         | Go       | Medium     |
-| 2    |                                                              |          | Medium     |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Go       | Medium     |
 | 151  |                                                              |          | Medium     |
 | 93   |                                                              |          | Medium     |
 | 105  |                                                              |          | Medium     |
