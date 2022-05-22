@@ -55,8 +55,8 @@ func TestZigzagLevelOrder(t *testing.T) {
 }
 
 var testRoot2 = &TreeNode{
-	Val:   1,
-	Left:  &TreeNode{
+	Val: 1,
+	Left: &TreeNode{
 		Val:   2,
 		Left:  nil,
 		Right: nil,
@@ -69,15 +69,15 @@ var testRoot2 = &TreeNode{
 }
 
 var testRoot3 = &TreeNode{
-	Val:   -10,
-	Left:  &TreeNode{
+	Val: -10,
+	Left: &TreeNode{
 		Val:   9,
 		Left:  nil,
 		Right: nil,
 	},
 	Right: &TreeNode{
-		Val:   20,
-		Left:  &TreeNode{
+		Val: 20,
+		Left: &TreeNode{
 			Val:   15,
 			Left:  nil,
 			Right: nil,
@@ -108,4 +108,9 @@ func TestSerializeAndDeserialize(t *testing.T) {
 func TestRightSideVeiw(t *testing.T) {
 	res := rightSideVies(testRoot)
 	t.Log(res)
+}
+
+func TestBuildTree(t *testing.T) {
+	root := buildTreeWithRecursion([]int{3, 9, 20, 15, 7}, []int{9, 3, 15, 20, 7})
+	t.Log(root)
 }
