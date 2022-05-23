@@ -42,8 +42,8 @@
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Go       | Medium     |
 | 151  |                                                              |          | Medium     |
 | 93   | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | Go       | Medium     |
-| 105  |                                                              |          | Medium     |
-| 31   |                                                              |          | Medium     |
+| 105  | [Construct Binary Tree from Preorder and Inor](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Go       | Medium     |
+| 31   | [Next Permutation](https://leetcode.com/problems/next-permutation) | Go       | Medium     |
 | 1143 |                                                              |          | Medium     |
 | 22   |                                                              |          | Medium     |
 | 129  |                                                              |          | Medium     |
