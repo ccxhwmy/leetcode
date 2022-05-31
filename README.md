@@ -44,10 +44,10 @@
 | 93   | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | Go       | Medium     |
 | 105  | [Construct Binary Tree from Preorder and Inor](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Go       | Medium     |
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation) | Go       | Medium     |
-| 1143 |                                                              |          | Medium     |
-| 22   |                                                              |          | Medium     |
-| 129  |                                                              |          | Medium     |
-| 113  |                                                              |          | Medium     |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Go       | Medium     |
+| 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Go       | Medium     |
+| 129  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | Go       | Medium     |
+| 113  | [Path Sum II](https://leetcode.com/problems/path-sum-ii)     | Go       | Medium     |
 | 98   |                                                              |          | Medium     |
 | 43   |                                                              |          | Medium     |
 | 78   |                                                              |          | Medium     |

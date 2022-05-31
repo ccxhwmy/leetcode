@@ -10,7 +10,7 @@ func TestPermute(t *testing.T) {
 	fmt.Println(permute([]int{1, 2, 3}))
 }
 
-func compareIntSlice(arr1, arr2 []string) bool {
+func compareStrSlice(arr1, arr2 []string) bool {
 	if len(arr1) != len(arr2) {
 		return false
 	}
@@ -23,19 +23,33 @@ func compareIntSlice(arr1, arr2 []string) bool {
 }
 
 func TestRestoreIpAddresses(t *testing.T) {
-	if !compareIntSlice(restoreIpAddresses("25525511135"), []string{
+	if !compareStrSlice(restoreIpAddresses("25525511135"), []string{
 		"255.255.11.135","255.255.111.35",
 	}) {
 		t.Fatal("failed")
 	}
-	if !compareIntSlice(restoreIpAddresses("0000"), []string{
+	if !compareStrSlice(restoreIpAddresses("0000"), []string{
 		"0.0.0.0",
 	}) {
 		t.Fatal("failed")
 	}
-	if !compareIntSlice(restoreIpAddresses("101023"), []string{
+	if !compareStrSlice(restoreIpAddresses("101023"), []string{
 		"1.0.10.23","1.0.102.3","10.1.0.23","10.10.2.3","101.0.2.3",
 	}) {
 		t.Fatal("failed")
 	}
 }
+
+func TestGenerateParenthesis(t *testing.T) {
+	if !compareStrSlice(generateParenthesis(3), []string{
+		"((()))","(()())","(())()","()(())","()()()",
+	}) {
+		t.Fatal("failed")
+	}
+	if !compareStrSlice(generateParenthesis(1), []string{
+		"()",
+	}) {
+		t.Fatal("failed")
+	}
+}
+

@@ -45,9 +45,3 @@ func maxProfit2WithGreedy(prices []int) int {
 	return res
 }
 
-func max(i, j int) int {
-	if i > j {
-		return i
-	}
-	return j
-}
