@@ -13,6 +13,7 @@ func inorderTraversalWithRecursion(root *TreeNode) []int {
 		res = append(res, node.Val)
 		inorder(node.Right)
 	}
+	inorder(root)
 	return res
 }
 

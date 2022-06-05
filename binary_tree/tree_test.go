@@ -34,6 +34,14 @@ var testRoot = &TreeNode{
 	},
 }
 
+func TestIsValidBST(t *testing.T) {
+	t.Log(isValidBST2(testRoot))
+}
+
+func TestInorderTraversalWithRecursion(t *testing.T) {
+	t.Log(inorderTraversalWithRecursion(testRoot))
+}
+
 func TestInorderTraversalWithIterate(t *testing.T) {
 	t.Log(inorderTraversalWithIterate(testRoot))
 }

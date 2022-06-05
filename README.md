@@ -48,8 +48,8 @@
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Go       | Medium     |
 | 129  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | Go       | Medium     |
 | 113  | [Path Sum II](https://leetcode.com/problems/path-sum-ii)     | Go       | Medium     |
-| 98   |                                                              |          | Medium     |
-| 43   |                                                              |          | Medium     |
+| 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Go       | Medium     |
+| 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | Go       | Medium     |
 | 78   |                                                              |          | Medium     |
 | 470  |                                                              |          | Medium     |
 | 322  |                                                              |          | Medium     |
