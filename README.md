@@ -50,7 +50,7 @@
 | 113  | [Path Sum II](https://leetcode.com/problems/path-sum-ii)     | Go       | Medium     |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Go       | Medium     |
 | 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | Go       | Medium     |
-| 78   |                                                              |          | Medium     |
+| 78   | [Subsets](https://leetcode.com/problems/subsets)             | Go       | Medium     |
 | 470  |                                                              |          | Medium     |
 | 322  |                                                              |          | Medium     |
 | 64   |                                                              |          | Medium     |

@@ -53,3 +53,7 @@ func TestGenerateParenthesis(t *testing.T) {
 	}
 }
 
+func TestSubSet(t *testing.T) {
+	t.Log(subset([]int{1, 2, 3}))
+}
+
