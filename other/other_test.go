@@ -13,3 +13,7 @@ func TestMultiply(t *testing.T) {
 		t.Log("failed")
 	}
 }
+
+func TestRand10(t *testing.T) {
+	t.Log(rand10())
+}

@@ -58,3 +58,9 @@ func TestLengthOfLIS(t *testing.T) {
 		t.Fatal("failed")
 	}
 }
+
+func TestCoinChange(t *testing.T) {
+	if coinChange([]int{1, 2, 5}, 11) != 3 {
+		t.Fatal("failed")
+	}
+}

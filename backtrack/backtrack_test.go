@@ -55,5 +55,6 @@ func TestGenerateParenthesis(t *testing.T) {
 
 func TestSubSet(t *testing.T) {
 	t.Log(subset([]int{1, 2, 3}))
+	t.Log(subset2([]int{1, 2, 3}))
 }
 

@@ -51,8 +51,8 @@
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Go       | Medium     |
 | 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | Go       | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets)             | Go       | Medium     |
-| 470  |                                                              |          | Medium     |
-| 322  |                                                              |          | Medium     |
+| 470  | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7) | Go       | Medium     |
+| 322  | [Coin Change](https://leetcode.com/problems/coin-change)     | Go       | Medium     |
 | 64   |                                                              |          | Medium     |
 | 718  |                                                              |          | Medium     |
 | 48   |                                                              |          | Medium     |
@@ -96,6 +96,9 @@
 | ---- | ------------------------------------------------------------ | -------- | ---------- |
 | 112  | [Path Sum](https://leetcode.com/problems/path-sum)           | Go       | Easy       |
 | 113  | [Path Sum II](https://leetcode.com/problems/path-sum-ii)     | Go       | Medium     |
+| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | Go       | Medium     |
 |      |                                                              |          |            |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search) | Go       | Easy       |
+
+
 

@@ -23,3 +23,18 @@ func subset(nums []int) [][]int {
 	dfs(0)
 	return res
 }
+
+func subset2(nums []int) [][]int {
+	res := make([][]int, 0)
+	n := len(nums)
+	for mask := 0; mask < 1<<n; mask++ {
+		set := make([]int, 0)
+		for i, v := range nums {
+			if mask>>i&1 > 0 {
+				set = append(set, v)
+			}
+		}
+		res = append(res, append([]int(nil), set...))
+	}
+	return res
+}
