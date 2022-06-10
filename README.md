@@ -53,7 +53,7 @@
 | 78   | [Subsets](https://leetcode.com/problems/subsets)             | Go       | Medium     |
 | 470  | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7) | Go       | Medium     |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change)     | Go       | Medium     |
-| 64   |                                                              |          | Medium     |
+| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Go       | Medium     |
 | 718  |                                                              |          | Medium     |
 | 48   |                                                              |          | Medium     |
 | 165  |                                                              |          | Medium     |
