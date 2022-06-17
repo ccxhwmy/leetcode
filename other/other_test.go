@@ -17,3 +17,13 @@ func TestMultiply(t *testing.T) {
 func TestRand10(t *testing.T) {
 	t.Log(rand10())
 }
+
+func TestRotate(t *testing.T) {
+	testArr := [][]int{
+		{1, 2, 3},
+		{4, 5, 6},
+		{7, 8, 9},
+	}
+	rotate(testArr)
+	t.Log(testArr)
+}

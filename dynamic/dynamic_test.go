@@ -64,3 +64,36 @@ func TestCoinChange(t *testing.T) {
 		t.Fatal("failed")
 	}
 }
+
+func TestIntegerBreak(t *testing.T) {
+	if integerBreak(2) != 1 {
+		t.Fatal("failed")
+	}
+	if integerBreak(10) != 36 {
+		t.Fatal("failed")
+	}
+	if integerBreak2(2) != 1 {
+		t.Fatal("failed")
+	}
+	if integerBreak2(10) != 36 {
+		t.Fatal("failed")
+	}
+}
+
+func TestCanPartition(t *testing.T) {
+	if canPartition([]int{1, 5, 11, 5}) != true {
+		t.Fatal("failed")
+	}
+	if canPartition([]int{1, 2, 3, 5}) != false {
+		t.Fatal("failed")
+	}
+}
+
+func TestFindLength(t *testing.T) {
+	if findLength([]int{1, 2, 3, 2, 1}, []int{3, 2, 1, 4, 7}) != 3 {
+		t.Fatal("failed")
+	}
+	if findLength([]int{0, 0, 0, 0, 0}, []int{0, 0, 0, 0, 0}) != 5 {
+		t.Fatal("failed")
+	}
+}

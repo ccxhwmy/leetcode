@@ -25,3 +25,34 @@ func TestSearchTotateArray(t *testing.T) {
 		t.Fatal("failed")
 	}
 }
+
+func TestFindCircleNum(t *testing.T) {
+	if findCircleNum([][]int{
+		{1, 1, 0},
+		{1, 1, 0},
+		{0, 0, 1},
+	}) != 2 {
+		t.Fatal("failed")
+	}
+	if findCircleNum([][]int{
+		{1, 0, 0},
+		{0, 1, 0},
+		{0, 0, 1},
+	}) != 3 {
+		t.Fatal("failed")
+	}
+	if findCircleNum2([][]int{
+		{1, 1, 0},
+		{1, 1, 0},
+		{0, 0, 1},
+	}) != 2 {
+		t.Fatal("failed")
+	}
+	if findCircleNum2([][]int{
+		{1, 0, 0},
+		{0, 1, 0},
+		{0, 0, 1},
+	}) != 3 {
+		t.Fatal("failed")
+	}
+}

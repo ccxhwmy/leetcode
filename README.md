@@ -54,9 +54,9 @@
 | 470  | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7) | Go       | Medium     |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change)     | Go       | Medium     |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Go       | Medium     |
-| 718  |                                                              |          | Medium     |
-| 48   |                                                              |          | Medium     |
-| 165  |                                                              |          | Medium     |
+| 718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | Go       | Medium     |
+| 48   | [Rotate Image](https://leetcode.com/problems/rotate-image)   | Go       | Medium     |
+| 165  | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) | Go       | Medium     |
 | 39   |                                                              |          | Medium     |
 | 34   |                                                              |          | Medium     |
 | 153  |                                                              |          | Medium     |
@@ -97,6 +97,8 @@
 | 112  | [Path Sum](https://leetcode.com/problems/path-sum)           | Go       | Easy       |
 | 113  | [Path Sum II](https://leetcode.com/problems/path-sum-ii)     | Go       | Medium     |
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | Go       | Medium     |
+| 343  | [Integer Break](https://leetcode.com/problems/integer-break) | Go       | Medium     |
+| 547  | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | Go       | Medium     |
 |      |                                                              |          |            |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search) | Go       | Easy       |
 
