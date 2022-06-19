@@ -57,9 +57,9 @@
 | 718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | Go       | Medium     |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image)   | Go       | Medium     |
 | 165  | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) | Go       | Medium     |
-| 39   |                                                              |          | Medium     |
-| 34   |                                                              |          | Medium     |
-| 153  |                                                              |          | Medium     |
+| 39   | [Combination Sum](https://leetcode.com/problems/combination-sum) | Go       | Medium     |
+| 34   | [Find First and Last Position of Element in Sort](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Go       | Medium     |
+| 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Go       | Medium     |
 | 62   |                                                              |          | Medium     |
 | 128  |                                                              |          | Medium     |
 | 221  |                                                              |          | Medium     |

@@ -12,13 +12,13 @@ func TestBinarySearch(t *testing.T) {
 }
 
 func TestSearchTotateArray(t *testing.T) {
-	if searchRotateArray([]int{1,3,5}, 1) != 0 {
+	if searchRotateArray([]int{1, 3, 5}, 1) != 0 {
 		t.Fatal("failed")
 	}
-	if searchRotateArray([]int{4,5,6,7,0,1,2}, 0) != 4 {
+	if searchRotateArray([]int{4, 5, 6, 7, 0, 1, 2}, 0) != 4 {
 		t.Fatal("failed")
 	}
-	if searchRotateArray([]int{4,5,6,7,0,1,2}, 3) != -1 {
+	if searchRotateArray([]int{4, 5, 6, 7, 0, 1, 2}, 3) != -1 {
 		t.Fatal("failed")
 	}
 	if searchRotateArray([]int{1}, 0) != -1 {
@@ -55,4 +55,10 @@ func TestFindCircleNum(t *testing.T) {
 	}) != 3 {
 		t.Fatal("failed")
 	}
+}
+
+func TestSearchRange(t *testing.T) {
+	t.Log(searchRange([]int{5, 7, 7, 8, 8, 10}, 8))
+	t.Log(searchRange([]int{5, 7, 7, 8, 8, 10}, 6))
+	t.Log(searchRange([]int{}, 0))
 }

@@ -24,7 +24,7 @@ func compareStrSlice(arr1, arr2 []string) bool {
 
 func TestRestoreIpAddresses(t *testing.T) {
 	if !compareStrSlice(restoreIpAddresses("25525511135"), []string{
-		"255.255.11.135","255.255.111.35",
+		"255.255.11.135", "255.255.111.35",
 	}) {
 		t.Fatal("failed")
 	}
@@ -34,7 +34,7 @@ func TestRestoreIpAddresses(t *testing.T) {
 		t.Fatal("failed")
 	}
 	if !compareStrSlice(restoreIpAddresses("101023"), []string{
-		"1.0.10.23","1.0.102.3","10.1.0.23","10.10.2.3","101.0.2.3",
+		"1.0.10.23", "1.0.102.3", "10.1.0.23", "10.10.2.3", "101.0.2.3",
 	}) {
 		t.Fatal("failed")
 	}
@@ -42,7 +42,7 @@ func TestRestoreIpAddresses(t *testing.T) {
 
 func TestGenerateParenthesis(t *testing.T) {
 	if !compareStrSlice(generateParenthesis(3), []string{
-		"((()))","(()())","(())()","()(())","()()()",
+		"((()))", "(()())", "(())()", "()(())", "()()()",
 	}) {
 		t.Fatal("failed")
 	}
@@ -58,3 +58,8 @@ func TestSubSet(t *testing.T) {
 	t.Log(subset2([]int{1, 2, 3}))
 }
 
+func TestCombinationSum(t *testing.T) {
+	t.Log(combinationSum([]int{2, 3, 6, 7}, 7))
+	t.Log(combinationSum([]int{2, 3, 5}, 8))
+	t.Log(combinationSum([]int{2}, 1))
+}
