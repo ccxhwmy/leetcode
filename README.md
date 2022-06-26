@@ -60,8 +60,8 @@
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum) | Go       | Medium     |
 | 34   | [Find First and Last Position of Element in Sort](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Go       | Medium     |
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Go       | Medium     |
-| 62   |                                                              |          | Medium     |
-| 128  |                                                              |          | Medium     |
+| 62   | [Unique Paths](https://leetcode.com/problems/unique-paths)   | Go       | Medium     |
+| 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Go       | Medium     |
 | 221  |                                                              |          | Medium     |
 | 240  |                                                              |          | Medium     |
 | 24   |                                                              |          | Medium     |
